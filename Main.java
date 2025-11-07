@@ -3,6 +3,6 @@
 class Main {
     public static void main(String[] args) {
         
-        System.out.println("PRAGYA SHRIVAS");
+        System.out.println("HELLO");
     }
 }
